@@ -27,12 +27,6 @@ A multipage NFT Marketplace website built using React, Tailwind CSS, React Icons
 - React Router: For handling page navigation and routes.
 - React Icons: A popular icon library to enhance UI/UX.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/nft-marketplace.git
-
 
 ![My Logo](./src/assets/images/Screenshot%202024-09-25%20121017.png);
 

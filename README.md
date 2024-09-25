@@ -31,5 +31,5 @@ A multipage NFT Marketplace website built using React, Tailwind CSS, React Icons
 ![My Hero](./src/assets/images/Screenshot%202024-09-25%20121017.png);
 ![My Wallet](./src/assets/images/wallee.png);
 ![My Creators](./src/assets/images/creat.png);
-![My Nft](./src/assets/images/Nft%20values.png);
+![My Nft](./src/assets/images/nftvalue.png);
 

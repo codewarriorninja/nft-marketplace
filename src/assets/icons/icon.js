@@ -1,4 +1,4 @@
-import StoreFront from './StoreFront.png'
+import StoreFront from './Storefront.png'
 import Discord from './DiscordLogo.png'
 import Globe from './Globe.png'
 import Insta from './InstagramLogo.png'

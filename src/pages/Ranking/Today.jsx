@@ -1,11 +1,12 @@
 import RankingProfileCards from "../../components/RankingProfileCards"
 import { rankings } from "../../constant/constant"
 
-const Today = () => {
+const Today = ({limit}) => {
+  const filteredPosts = limit ? rankings.slice(0, limit) : rankings
   return (
     <div className="w-full mt-5">
         <div>
-        {rankings.map((ranking,index) =>(
+        {filteredPosts.map((ranking,index) =>(
             <RankingProfileCards key={index} {...ranking} />
         ))}
         </div>

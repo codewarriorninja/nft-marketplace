@@ -66,8 +66,10 @@ import DavisWorkman from './Davis Workman.png'
 import AlfredoSeptimus from './Alfredo Septimus.png'
 import AngelLubin from './Angel Lubin.png'
 import WalletImage from './WalletPlaceholder.png'
+import WalletImages from './walletImages.png'
 export{
     Keepitreal,
+    WalletImages,
     WalletImage,
     Juanie,
     AvatarPlaceholder,

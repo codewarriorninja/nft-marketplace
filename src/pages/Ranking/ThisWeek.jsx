@@ -1,8 +1,8 @@
-
+import Today from "./Today"
 
 const ThisWeek = () => {
   return (
-    <div>ThisWeek</div>
+    <Today limit={3} />
   )
 }
 

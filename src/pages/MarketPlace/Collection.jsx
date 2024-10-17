@@ -1,8 +1,8 @@
-
+import Nfts from "./Nfts"
 
 const Collection = () => {
   return (
-    <div>Collection</div>
+    <Nfts limit={6} />
   )
 }
 

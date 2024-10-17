@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom"
-import { WalletImage } from "../assets/images/image"
+import { WalletImages } from "../assets/images/image"
 import { CoinBase, MetaMask, WalletConnect } from "../assets/icons/icon"
 
 const Wallet = () => {
@@ -7,7 +7,7 @@ const Wallet = () => {
     <section>
        <div className="flex flex-col items-center md:flex-row gap-14">
         <div className="md:w-1/2">
-         <img src={WalletImage} 
+         <img src={WalletImages} 
           alt="walletPlaceholder"
            className="object-contain"
          />
